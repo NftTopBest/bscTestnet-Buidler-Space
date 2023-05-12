@@ -8,7 +8,15 @@ A web3 way of creater space that like a web3 amazon!
 
 <img src="./screenshot-1.png" />
 
-## Features Develep duiring the CyberConnect 2023 Hackathon
+
+## Deploy on Scroll Testnet and Mantle testnet
+* Scroll Testnet
+  * demo: <https://scrolltestnet.buidlers.space/>
+  * contract: <https://blockscout.scroll.io/address/0xf495dD8D8B4e38bdcF811B39A19eb2b1f9E24686>
+* Mantle
+    * demo: <https://mantletestnet.buidlers.space/>
+    * contract: <https://explorer.testnet.mantle.xyz/address/0xf495dD8D8B4e38bdcF811B39A19eb2b1f9E24686>
+## new Features
 
 full CyberConnect sdk data created:
 
@@ -80,9 +88,6 @@ The vision of the Buidlers.Space is Expending to all industry that help every cr
   * Fevm hyperspace
     * demo: <https://hyperspace.buidlers.space>
     * contract: <https://hyperspace.filfox.info/en/address/0xfCB87c8BF0e9CDa86EEE939af64D6340F4562393>
-  * Mantle
-    * demo: <https://mantletestnet.buidlers.space/>
-    * contract: <https://explorer.testnet.mantle.xyz/address/0xf495dD8D8B4e38bdcF811B39A19eb2b1f9E24686>
   * BSC Testnet
     * demo: <https://bsctestnet.buidlers.space/>
     * contract: <https://testnet.bscscan.com/address/0x268ab9c820c94c18ac8293e2e239bf0af1bd8f91>
