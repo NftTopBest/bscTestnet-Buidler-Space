@@ -8,7 +8,10 @@ A web3 way of creater space that like a web3 App Store!
 
 ## Links
 
-* Video Demo: <#>
+* Overview Video: <https://www.loom.com/share/16793404274444bf84e55519febfa112>
+* Create NFT Video: <https://www.loom.com/share/13f970f0b2024a6fbcfcc99bdd3dd23b>
+* Create Item Video: <https://www.loom.com/share/59679a7ac5794516ba520fe1d2521ce0>
+* Mint / Bid / Ask / Unlock Item Video: <https://www.loom.com/share/2c8a711b3ab949558913018d26adf4bb>
 * Online demo
   * BSC Testnet
     * demo: <https://bsctestnet.buidlers.space/bscTestnet/buidlers/build/0>
