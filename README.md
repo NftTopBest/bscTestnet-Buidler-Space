@@ -23,17 +23,16 @@ A web3 way of creater space that like a web3 App Store!
 
 ## Problem
 
-NFT should be have value on it not just PFP. We create the super great Smart Contract BuidlerProtocol that treat it as the central of the Builders! Every builders can create many build for themself for any project(every project is an NFT).
+NFT should have value on it not just PFP. We create the super great Smart Contract BuidlerProtocol that treats it as the center of the Builders! Every builders can create many builds for themself for any project(every project is an NFT).
 
-Builder will continue add new build on the NFT, so their users(buyer) can mint NFT(buy it with $NST), then can sell it or make an Ask order, and the guy do not mint the NFT can buy NFT from the de-market or just make a new Bid for the NFT.
+Builder will continue to add new build on the NFT, so their users(buyer) can mint NFT(buy it with $NST), then can sell it or make an Ask order, and the guy does not mint the NFT can buy NFT from the de-market or just make a new Bid for the NFT.
 
-While builder add new build for his/her NFT projects, they need to add the cidRaw and size, so later the SP can call activateDealBySP to activate the deal, then call the withdrawReward with cidRaw to get the reward.
+When builders add a new build for his/her NFT projects, they need to add the cidRaw and size, so later the SP can call activateDealBySP to activate the deal, then call the withdrawReward with cidRaw to get the reward.
 
-* A lot of NFT list on OpenSea/X2Y2 with different contracts and data flow
+* A lot of NFT lists on OpenSea/X2Y2 with different contracts and data flow
 * Users fall into lots of Ponzi projects without value
-* Launch a DAO require a lot of complicate tech stuff to use for Web2 users
+* Launch a DAO require a lot of complicated tech stuff to use for Web2 users
 * There is no standard no-tech token gating solution for Web2 users yet
-
 ## Opportunity
 
 Getting producers and consumers together all to web3 in a unified verse can help the productive economic more decentral
