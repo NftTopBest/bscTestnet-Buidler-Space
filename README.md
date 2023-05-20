@@ -17,7 +17,7 @@ A web3 way of creater space that like a web3 App Store!
     * demo: <https://www.buidlers.space>
     * contract: <https://mumbai.polygonscan.com/address/0x3Efb3F8F64e8C62594Ff02866a07e63e576436Fd>
   * BSC Testnet
-    * demo: <https://bsctestnet.buidlers.space/bscTestnet/buidlers/build/0>
+    * demo: <https://bsctestnet.buidlers.space/bscTestnet/buidlers/build/18>
     * contract: <https://testnet.bscscan.com/address/0x268ab9c820c94c18ac8293e2e239bf0af1bd8f91>
 * [All screenshots](./screenshots/)
 * [Pitch Deck](./buidlers-space.pdf)
